@@ -1,4 +1,4 @@
-//your JS code here. If required.
+
 const currentURL = window.location.href;
 
 // Count the number of characters in the URL using the length property
